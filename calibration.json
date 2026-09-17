@@ -1,6 +1,6 @@
 {
-    "avg_cocked": 2.13,
-    "avg_fired": 1.06,
-    "arm_threshold": 1.76,
-    "fire_threshold": 1.43
+    "avg_cocked": 1.34,
+    "avg_fired": 0.65,
+    "arm_threshold": 1.1,
+    "fire_threshold": 0.89
 }
